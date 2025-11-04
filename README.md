@@ -1,4 +1,4 @@
-## Structural Biology Portfolio
+## Exploring Structural Biology
 
 ## Projects
 
